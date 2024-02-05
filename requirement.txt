@@ -1,0 +1,3 @@
+python_weather
+kafka-python
+datapackage

@@ -1,0 +1,5 @@
+## Kafka training 
+
+- Reproduction of kafka's quickstart guideline with python langage
+- Using `kafka`, `python-weather` and `datapackage` to produce weather data in order to  be consumed
+- Added multithreading behavior
